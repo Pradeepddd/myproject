@@ -1,0 +1,11 @@
+/* No specific CSS needed here because Tailwind CSS is used heavily.
+   However, you can add custom styles here if needed.
+   For example, if you wanted to define a custom font directly: */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+/* Any custom CSS rules not covered by Tailwind can go here.
+   For instance, if you wanted a very specific shadow: */
+.shadow-xl {
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 
+                0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
